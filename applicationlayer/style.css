@@ -1,0 +1,98 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+
+}
+body{
+	font-size: 120%;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GpfN594uuEUr38edPznJKM7vdlRN_nsnxw&usqp=CAU");
+	background-size: 100% 100%;
+}
+
+.header{
+	width: 25%;
+	margin: 180px auto 0px;
+	color: rgb(5, 1, 1);
+	background: transparent;
+	text-align: center;
+	border: 1px solid transparent;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px ;
+	padding: 20px;
+}
+
+
+
+
+form{
+
+	width: 25%;
+	margin:5px auto;
+	padding: 20px;
+	border: 1px solid transparent;
+	background: transparent;
+	border-radius: 0px 0px 10px 10px;
+
+}
+
+
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label{
+	display: block;
+	text-align: left;
+	margin: 3px;
+
+}
+
+.input-group input{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border:1px solid grey;
+
+}
+
+.btn{
+
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #000000;
+	border:none;
+	border-radius: 5px;
+	text-align: center;
+	margin-left : 160px;
+
+
+
+
+}
+
+.error{
+
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border:1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+	
+}
+a:-webkit-any-link {
+    color: yellow;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+
